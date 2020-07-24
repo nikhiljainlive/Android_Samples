@@ -1,3 +1,6 @@
 [submodule "WorkManager_CodeLabExample"]
 	path = WorkManager_CodeLabExample
 	url = git@github.com:nikhiljainlive/WorkManager_CodeLabExample.git
+[submodule "DataBindingExample"]
+	path = DataBindingExample
+	url = git@github.com:nikhiljainlive/DataBindingExample.git

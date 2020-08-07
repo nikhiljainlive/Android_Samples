@@ -4,3 +4,6 @@
 [submodule "DataBindingExample"]
 	path = DataBindingExample
 	url = git@github.com:nikhiljainlive/DataBindingExample.git
+[submodule "RoomPersistenceLibraryExample_Android"]
+	path = RoomPersistenceLibraryExample_Android
+	url = https://github.com/nikhiljainlive/RoomPersistenceLibraryExample_Android.git
